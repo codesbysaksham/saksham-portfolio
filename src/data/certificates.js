@@ -1,0 +1,51 @@
+// Certificate data. Replace `image` and `url` fields with real certificate links.
+export const certificates = [
+  {
+    id: 1,
+    title: 'Meta Front-End Developer Professional Certificate',
+    issuer: 'Meta (Coursera)',
+    date: 'Jan 2024',
+    image: 'https://placehold.co/400x300/1E293B/3B82F6?text=Meta+Certificate',
+    url: 'https://coursera.org/verify/example1',
+  },
+  {
+    id: 2,
+    title: 'JavaScript Algorithms and Data Structures',
+    issuer: 'freeCodeCamp',
+    date: 'Aug 2022',
+    image: 'https://placehold.co/400x300/1E293B/8B5CF6?text=freeCodeCamp',
+    url: 'https://freecodecamp.org/certification/example2',
+  },
+  {
+    id: 3,
+    title: 'AWS Certified Cloud Practitioner',
+    issuer: 'Amazon Web Services',
+    date: 'Mar 2023',
+    image: 'https://placehold.co/400x300/1E293B/06B6D4?text=AWS+Certified',
+    url: 'https://aws.amazon.com/verification/example3',
+  },
+  {
+    id: 4,
+    title: 'Advanced React and Redux',
+    issuer: 'Udemy',
+    date: 'Nov 2022',
+    image: 'https://placehold.co/400x300/1E293B/3B82F6?text=React+%26+Redux',
+    url: 'https://udemy.com/certificate/example4',
+  },
+  {
+    id: 5,
+    title: 'UI/UX Design Fundamentals',
+    issuer: 'Google (Coursera)',
+    date: 'Jun 2023',
+    image: 'https://placehold.co/400x300/1E293B/8B5CF6?text=UI%2FUX+Design',
+    url: 'https://coursera.org/verify/example5',
+  },
+  {
+    id: 6,
+    title: 'Docker & Kubernetes: The Complete Guide',
+    issuer: 'Udemy',
+    date: 'Feb 2024',
+    image: 'https://placehold.co/400x300/1E293B/06B6D4?text=Docker+%26+K8s',
+    url: 'https://udemy.com/certificate/example6',
+  },
+];
