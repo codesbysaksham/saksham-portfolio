@@ -53,7 +53,7 @@ export default function Loader({ onFinish }) {
         exit={{ opacity: 0 }}
       >
         <div className="w-44 h-44">
-          <LoaderScene />
+         Loading..........
         </div>
 
         <motion.h2
