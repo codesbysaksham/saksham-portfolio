@@ -1,8 +1,8 @@
 // Project data. Replace `image` paths with real screenshots in src/assets/images.
-import TopperDaju from "../assets/images/Projects/TopperDaju.png";
-import EarthquakeAlertSystem from "../assets/images/Projects/EAS.png";
-import AIResumeAnalyzer from "../assets/images/Projects/ARA.png";
-import PortfolioWebsite from "../assets/images/Projects/Portfolio.png";
+import TopperDaju from "../assets/images/projects/TopperDaju.png";
+import EarthquakeAlertSystem from "../assets/images/projects/EAS.png";
+import AIResumeAnalyzer from "../assets/images/projects/ARA.png";
+import PortfolioWebsite from "../assets/images/projects/Portfolio.png";
 export const projects = [
   {
     id: 1,
